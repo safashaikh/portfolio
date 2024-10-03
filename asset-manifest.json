@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2dbe8ad0.css",
+    "main.js": "/static/js/main.0f31a14e.js",
+    "static/css/64.bba8fa55.chunk.css": "/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.41912c0a.chunk.js": "/static/js/64.41912c0a.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.6b18baac.chunk.js": "/static/js/769.6b18baac.chunk.js",
+    "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/django.jpg": "/static/media/django.fc4d704014ce02409cf0.jpg",
+    "static/media/columbiaLogo.png": "/static/media/columbiaLogo.43398933d0fc46d05b84.png",
+    "static/media/resume.pdf": "/static/media/resume.d5f6c48f74ae10bbefbf.pdf",
+    "static/media/ttl.jpg": "/static/media/ttl.07d86bf652ae3ea852df.jpg",
+    "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/LMLogo.png": "/static/media/LMLogo.55b691f6f7c8973f436e.png",
+    "static/media/manOnTable.svg": "/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/contactMailDark.svg": "/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/googleAssistantLogo.webp": "/static/media/googleAssistantLogo.f720c71652579588524a.webp",
+    "static/media/rutgersLogo.png": "/static/media/rutgersLogo.29ba1e4d3d6bb178973a.png",
+    "static/media/vst.webp": "/static/media/vst.b21866484e844110186e.webp",
+    "static/media/codeInLogo.webp": "/static/media/codeInLogo.e41a71d512efeda2a55c.webp",
+    "static/media/skill.svg": "/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "static/media/pwaLogo.webp": "/static/media/pwaLogo.8bf2293da0ca66249e37.webp",
+    "index.html": "/index.html",
+    "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.2dbe8ad0.css.map": "/static/css/main.2dbe8ad0.css.map",
+    "main.0f31a14e.js.map": "/static/js/main.0f31a14e.js.map",
+    "64.bba8fa55.chunk.css.map": "/static/css/64.bba8fa55.chunk.css.map",
+    "64.41912c0a.chunk.js.map": "/static/js/64.41912c0a.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
+    "769.6b18baac.chunk.js.map": "/static/js/769.6b18baac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2dbe8ad0.css",
+    "static/js/main.0f31a14e.js"
+  ]
+}
